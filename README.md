@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @userpagm
-- 👀 I’m interested in data science, teaching and yoga
+- 👀 I’m interested in data science, education and yoga
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on projects about education
 - 📫 How to reach me : www.linkedin.com/in/paula-garbarino-9894ba91
